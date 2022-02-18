@@ -1,15 +1,14 @@
-body{
-    width: auto;
-    height: 100vh;
-    background: linear-gradient(to left, #A6DB8A,#5A8F3D), sienna;
+body {
+  width: auto;
+  height: 100vh;
+  background: linear-gradient(to top left, #22ff00ab, #00ffaeb9);
+}
 
+body h1 {
+  text-align: center;
 }
-body h1{
-   text-align: center;
-    
+img {
+  float: right;
+  width: 450px;
+  height: 100vh;
 }
-img{
-    
-    float:right;
-    width: 450px;
-    height: 100vh;}
